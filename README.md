@@ -1,3 +1,5 @@
+> **Moved.** This starter now lives in [devops-starters/data/kafka-spark-pipeline](https://github.com/DanilaZanin/devops-starters/tree/main/data/kafka-spark-pipeline), with pinned versions, a self-contained Makefile and a test that reproduces the trap it avoids. This repository is archived.
+
 # kafka-spark-streaming-pipeline
 
 A real-time pipeline: a producer generates order events onto Kafka, Spark
